@@ -1,0 +1,6 @@
+{
+  "name": "ContactHub - Contact Management System",
+  "description": "A beginner-friendly Contact Management System with Flask, SQLite, Bootstrap 5, complete CRUD operations, interactive demo, and academic presentation pack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
